@@ -1,0 +1,11 @@
+{
+  "name": "oauth-google",
+  "version": "1.0.0",
+  "description": "google oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rr",
+  "license": "ISC"
+}
